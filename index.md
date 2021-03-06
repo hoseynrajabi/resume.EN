@@ -30,6 +30,6 @@ I am studying software engineering at PNU Varamin University.
 ### Other Accounts
 - Gmail: hoseinrajabi9865@gmail.com
 
-- Quera Profile: <a href="">My Profile</a>
+- Quera Profile: <a href="https://quera.ir/profile/hoseynrajabi">My Profile</a>
 
-  Persian Resume: <a href=""> Resume </a>
+  Persian Resume: <a href="https://hoseynrajabi.github.io/resume.FA/"> Resume </a>
