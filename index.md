@@ -14,12 +14,12 @@ I am studying software engineering at PNU Varamin University.
 
 ### Skills
 
-+ HTML
-+Css
-+PHP
-+C++
-+PAYTON
-+SWIFT
+ + HTML
+ + Css
+ + PHP
+ + C++
+ + PAYTON
+ + SWIFT
 
 
 ### Languages
@@ -28,7 +28,7 @@ I am studying software engineering at PNU Varamin University.
 - English(Normal)
 
 ### Other Accounts
--Gmail: hoseinrajabi9865@gmail.com
+- Gmail: hoseinrajabi9865@gmail.com
 
 - Quera Profile: <a href="">My Profile</a>
 
